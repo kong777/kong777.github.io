@@ -1,2 +1,0 @@
-.list{display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;width:300px;list-style:none}.list,.list__item{padding:0;margin:0}.list__item{-webkit-box-sizing:border-box;box-sizing:border-box;width:100px;border-bottom:1px solid #ccc;border-right:1px solid #ccc;height:100px;text-align:center;line-height:98px;font-size:60px}.list__item:nth-child(-n+3){border-top:1px solid #ccc}.list__item:nth-child(3n+1){border-left:1px solid #ccc}.show__winner{color:#f91}
-/*# sourceMappingURL=main.2fb2d254.css.map*/
